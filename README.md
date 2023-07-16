@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md. Zabaidul Islam</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="blob:https://lottiefiles.com/812bada6-819e-4425-afd6-25c656841482">
+<img align="right" alt="Coding" width="400" src="[blob:https://lottiefiles.com/812bada6-819e-4425-afd6-25c656841482](https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabaidulbd&label=Profile%20views&color=0e75b6&style=flat" alt="zabaidulbd" /> </p>
 

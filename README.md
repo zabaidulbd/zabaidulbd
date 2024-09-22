@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zabaidul-portfolio.web.app/](https://zabaidul-portfolio.web.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zislam5622@gmail.com**
 
@@ -29,6 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/zabaidulbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabaidulbd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zabaidul-islam-8725b915a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zabaidul-islam-8725b915a" height="30" width="40" /></a>
+  <a href="https://medium.com/@zabaidulbd" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/zHQyFk4/banner-6.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zabaidul Islam</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151034122.jpg?t=st=1726998122~exp=1727001722~hmac=a8bbc2effbd4d1c4324e6d4be742109e3840e6ea4381069b70ef192c28c2686d&w=740">
+<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151034122.jpg?t=st=1726998122~exp=1727001722~hmac=a8bbc2effbd4d1c4324e6d4be742109e3840e6ea4381069b70ef192c28c2686d&w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabaidulbd&label=Profile%20views&color=0e75b6&style=flat" alt="zabaidulbd" /> </p>
 
